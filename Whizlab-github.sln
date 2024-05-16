@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whizlab-github", "Whizlab-github.csproj", "{2A21C118-4F57-48C3-B195-0C7F041263BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A21C118-4F57-48C3-B195-0C7F041263BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A21C118-4F57-48C3-B195-0C7F041263BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A21C118-4F57-48C3-B195-0C7F041263BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A21C118-4F57-48C3-B195-0C7F041263BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419EF58C-149A-4E61-9C77-F34CE1461968}
+	EndGlobalSection
+EndGlobal
